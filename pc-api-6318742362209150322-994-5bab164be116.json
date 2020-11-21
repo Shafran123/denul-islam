@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-6318742362209150322-994",
+  "private_key_id": "5bab164be116a04a80d557a320ca44b70e77e58d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDO9FDe3lSHTm+G\n7FsdJodaNRitSZh+OwNeySVmrdgPjmIlLS2fb2wDBBUu0fpvk6qxTT7K1BuK645f\nCa4BNbqbgSezsLcmiWyWSIaHWKpS8NT65PGJp7Z0872fb4umihEKK9kmpTOanRaZ\n43/YS+mnuJvv9rvMowySZ4938U4I8LL/lyaqFhd13g7jzRJAw3ucJHRkDJoRdzYx\nDNEy6fMwxzljEZ8q5fjdtSfG8CrTV+EhxmNI2TZTfoxmept8BimkK7ZNEJ12iTwC\n0GSQh4Rn9+im0v+pCo12eq2e3uYzSLTz2+FS1Lb5hy2Hjohlq6KjnaYTH+tNJT9Q\nMsF3pLqLAgMBAAECggEACHNJahBB+1RkkWnNPp94H2LTox/CLkVSmeg0ssCedeQm\ndcYmesAd9PGRu9uvEidBbQPucHHAvidoJNFMXZhICll3uYqZr+Ukne5QL+6a5dAX\nojb+9dP3S0c4ku4HEcHJeFTaBQ3x0XpgleAINFjFLagIFgBJIs31kXTREuCzgwHe\nO0rTU2jcW/J+la4Orcl0TrIYcipx0Yke6baxkotxTdJBOtvUcUqQBMyvpMKCG9C6\nyqNXNXe5NnZ1s1K/Pn/kykK94zd9aBwE8TdIbxK2GNIRWUX9w6AFJpnU7Ay+EeMG\nXPq/aeCy2AC1iOSx0eR4kGEK3yWOVpBy0Ruh32SpAQKBgQDxzac1Dj6m6/Vrq9XD\nlI+Rcti81jcFSd6HwLVBx8GFNMZ/t0HWfXp0KEKBA5MKEpyVuf6Funzq+PH9J3nw\nvvPSu87dEcIwEoTLC03253EVT4vu+tGqHxy54BjNlAC34ffVA132OVbztCA9cStQ\nkZY30vswbaqeoCNP73ny0oFZIQKBgQDbGuBjC4+FgfuHRIhNKCwPpdAzIOHT66sB\nlnRT/NrDlFgQC8ITMGKXhSpJQW+amW2/aX1z3Upvf1DZT8v/L/PLab8tnMDIgJSa\njwWF7OZ9THKn2HT9X0hxYCRP+2b4fl16iK8+dbOmHy3GOWELkzHhvbsFgjZmr2tq\n1A0XD6iCKwKBgQCDsRqo5aovpQET9BFHJKkQcTkjl5N9uN6OluDhA5cdIkIdmsQr\nukkv7CFUPIsfiEVpslOxp4CTRKQe2RoriQQoOIsQkbRuFBfosa5zk1deYOV4cXgx\nLCKsBSXdCQdfHp2okN3i1RXLQsXwUKtjhPcITkrp9EBhhhvVVDrZidZSoQKBgQDP\nkG2Dxt7m5lVnNqg9F9Jt3HIZDYyCG177+REow4BnCXBHeywWy56K1g9SKJhWiATs\n8T10du3eJGluBOdHT6EQUZRX3IjRKOYeaWEdF2jeyH5RvYBOy2YwaZjc4FgTDnr1\n6ujBLfXLaPwPLipeMcpuhTPYKxvoOUR0hoAEGcRT0wKBgDjwRVGa/fdAUlP0vfN8\nUTODvdbTSvXhxvppzzEhbSMUvVDuy7cBXZHUaT82G4BsLcMuCBQzSkQjj/BMctWM\nRGxA/RyuUgvve/i263tU/6d2vBR63xvBcPvL7DgQhFJassm8gai0LqrzR2lbuwYc\nvIBvUnBOsNllFSEMwtCyJaRk\n-----END PRIVATE KEY-----\n",
+  "client_email": "denul-islam@pc-api-6318742362209150322-994.iam.gserviceaccount.com",
+  "client_id": "101487559721102919918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/denul-islam%40pc-api-6318742362209150322-994.iam.gserviceaccount.com"
+}
