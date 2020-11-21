@@ -28,6 +28,7 @@ jobs:
       - name: Build Android Build
         run: expo build:android
   Push-to-Playstore:
+    needs: [Build-for-android]
     runs-on: macos-latest
     steps:
       - uses: actions/setup-node@v1
