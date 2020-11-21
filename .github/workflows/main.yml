@@ -25,8 +25,6 @@ jobs:
           expo-password: ${{ secrets.EXPO_CLI_PASSWORD }}
       - name: Install deps
         run: yarn install
-      - name: Build Android Build
-        run: expo build:android
   Push-to-Playstore:
     needs: [Build-for-android]
     runs-on: macos-latest
@@ -40,6 +38,8 @@ jobs:
           java-package: jdk # (jre, jdk, or jdk+fx) - defaults to jdk
           architecture: x64 # (x64 or x86) - defaults to x64
       - uses: expo/expo-github-action@v5
+      - name: Install deps
+        run: yarn install
         with:
           expo-version: 3.x
           expo-username: ${{ secrets.EXPO_CLI_USERNAME }}
