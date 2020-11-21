@@ -38,11 +38,11 @@ jobs:
           java-package: jdk # (jre, jdk, or jdk+fx) - defaults to jdk
           architecture: x64 # (x64 or x86) - defaults to x64
       - uses: expo/expo-github-action@v5
-      - name: Install deps
-        run: yarn install
         with:
           expo-version: 3.x
           expo-username: ${{ secrets.EXPO_CLI_USERNAME }}
           expo-password: ${{ secrets.EXPO_CLI_PASSWORD }}
+      - name: Install deps
+        run: yarn install
       - name: Upload to Google Play Console
         run: expo upload:android --latest --key pc-api-6318742362209150322-994-5bab164be116.json
