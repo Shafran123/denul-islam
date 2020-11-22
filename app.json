@@ -2,7 +2,7 @@
   "expo": {
     "name": "Denulislam",
     "slug": "denul-islam",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -21,7 +21,7 @@
     },
     "android": {
       "package": "com.denul.islam",
-      "versionCode": 5,
+      "versionCode": 6,
       "permissions":[]
     },
     "web": {
